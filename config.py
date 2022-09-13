@@ -1,0 +1,6 @@
+customhost="employee.ckhuyyix59pr.ap-south-1.rds.amazonaws.com"
+customuser="sumedha"
+custompass="sumedhacc"
+customdb="employee"
+custombucket="sumedhaemp"
+customregion="ap-south-1"
