@@ -18,7 +18,7 @@ db_conn = connections.Connection(
 
 )
 output = {}
-table = 'employee'
+table = 'sampledb'
 
 
 @app.route("/", methods=['GET', 'POST'])
